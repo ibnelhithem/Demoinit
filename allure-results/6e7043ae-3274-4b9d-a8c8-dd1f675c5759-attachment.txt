@@ -1,0 +1,10 @@
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @27-04-2022 09:53:31.0450 am
+[ReportManager] Attempting to run locally on: [Linux-64], [GoogleChrome]. @27-04-2022 09:53:31.0483 am
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @27-04-2022 09:53:31.0483 am
+[ReportManager] Successfully Opened Google Chrome. @27-04-2022 09:53:44.0518 am
+[ReportManager] Target URL: [https://bulbapedia.bulbagarden.net/wiki/Main_Page] @27-04-2022 09:53:50.0405 am
+[ReportManager] Initial URL: [data:,] @27-04-2022 09:53:50.0488 am
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220427-095355", Target File: "/1651046035590_beforeMethod.gif"]. @27-04-2022 09:53:55.0943 am
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://bulbapedia.bulbagarden.net/wiki/Main_Page]. @27-04-2022 09:53:56.0311 am
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Continue to Site]. @27-04-2022 09:53:57.0371 am
+[ReportManager] Successfully created attachment [Animated Gif - beforeMethod] @27-04-2022 09:53:57.0507 a

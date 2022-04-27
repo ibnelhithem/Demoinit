@@ -1,0 +1,11 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[webtest.PokimonVarification.verifyPage]
+################################################################################################################################################
+[ReportManager] Target URL: [https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_name#Y] @27-04-2022 09:53:57.0736 am
+[ReportManager] Initial URL: [https://bulbapedia.bulbagarden.net/wiki/Main_Page] @27-04-2022 09:53:57.0846 am
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220427-095355", Target File: "/1651046065984_verifyPage.gif"]. @27-04-2022 09:54:26.0047 am
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_name#Y]. @27-04-2022 09:54:26.0268 am
+[ReportManager] Browser Action [GetCurrentURL] successfully performed. With the following test data [https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_name#Y]. @27-04-2022 09:54:26.0694 am
+[ReportManager] Successfully created attachment [Animated Gif - verifyPage] @27-04-2022 09:54:26.0718 a

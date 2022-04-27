@@ -1,0 +1,32 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v6.1.20220113]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @27-04-2022 09:53:31.0450 am
+[ReportManager] Attempting to run locally on: [Linux-64], [GoogleChrome]. @27-04-2022 09:53:31.0483 am
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @27-04-2022 09:53:31.0483 am
+[ReportManager] Successfully Opened Google Chrome. @27-04-2022 09:53:44.0518 am
+[ReportManager] Target URL: [https://bulbapedia.bulbagarden.net/wiki/Main_Page] @27-04-2022 09:53:50.0405 am
+[ReportManager] Initial URL: [data:,] @27-04-2022 09:53:50.0488 am
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220427-095355", Target File: "/1651046035590_beforeMethod.gif"]. @27-04-2022 09:53:55.0943 am
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://bulbapedia.bulbagarden.net/wiki/Main_Page]. @27-04-2022 09:53:56.0311 am
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Continue to Site]. @27-04-2022 09:53:57.0371 am
+[ReportManager] Successfully created attachment [Animated Gif - beforeMethod] @27-04-2022 09:53:57.0507 a
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[webtest.PokimonVarification.verifyPage]
+################################################################################################################################################
+[ReportManager] Target URL: [https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_name#Y] @27-04-2022 09:53:57.0736 am
+[ReportManager] Initial URL: [https://bulbapedia.bulbagarden.net/wiki/Main_Page] @27-04-2022 09:53:57.0846 am
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220427-095355", Target File: "/1651046065984_verifyPage.gif"]. @27-04-2022 09:54:26.0047 am
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_name#Y]. @27-04-2022 09:54:26.0268 am
+[ReportManager] Browser Action [GetCurrentURL] successfully performed. With the following test data [https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_name#Y]. @27-04-2022 09:54:26.0694 am
+[ReportManager] Successfully created attachment [Animated Gif - verifyPage] @27-04-2022 09:54:26.0718 a
+[ReportManager] Successfully created attachment [Video Recording - afterMethod] @27-04-2022 09:54:40.0539 am
+[ReportManager] Successfully Closed All Drivers. @27-04-2022 09:54:41.0332 a
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @27-04-2022 09:54:41.0359 am
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v6.1.20220113]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################
