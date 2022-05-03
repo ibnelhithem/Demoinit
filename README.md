@@ -24,3 +24,7 @@ the test will run in headless mode
 
 docker compose file is already prepared in 
 src/main/resources/docker-compose
+####################
+# Hint
+in this demo I try to make it easy as much as I can to the one who will write the test so I use builder pattern with self reference
+with this approach I design the test with the chain of responsibility styple and follw page object model
